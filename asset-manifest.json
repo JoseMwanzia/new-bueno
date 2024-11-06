@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/new-bueno/static/css/main.7e1a3e3e.css",
+    "main.js": "/new-bueno/static/js/main.c182dfe8.js",
+    "static/js/453.fc3d2486.chunk.js": "/new-bueno/static/js/453.fc3d2486.chunk.js",
+    "static/media/Untitled design (5).png": "/new-bueno/static/media/Untitled design (5).61c46a305121a5c0d9ef.png",
+    "static/media/Untitled design (7).png": "/new-bueno/static/media/Untitled design (7).8e21bb1298fd502ad4ee.png",
+    "static/media/Untitled design (8).png": "/new-bueno/static/media/Untitled design (8).22c35295ead6d079d96b.png",
+    "static/media/Untitled design (12).png": "/new-bueno/static/media/Untitled design (12).a622de466b2d25a32d3d.png",
+    "static/media/Untitled design (11).png": "/new-bueno/static/media/Untitled design (11).53fd036f5d8e9f9b57bf.png",
+    "static/media/Untitled design (17).png": "/new-bueno/static/media/Untitled design (17).75b997dd7426a83f8729.png",
+    "static/media/Untitled design (1).png": "/new-bueno/static/media/Untitled design (1).512f850e4b7b1e1ce613.png",
+    "static/media/Untitled design (24).png": "/new-bueno/static/media/Untitled design (24).dfd08fabc78d22484362.png",
+    "static/media/Untitled design (13).png": "/new-bueno/static/media/Untitled design (13).cd8f7db367a02a264857.png",
+    "static/media/Untitled design (25).png": "/new-bueno/static/media/Untitled design (25).19584e209dc24b267271.png",
+    "static/media/Untitled design (21).png": "/new-bueno/static/media/Untitled design (21).45a7c8a3d212f0f1f6d1.png",
+    "static/media/Untitled design (18).png": "/new-bueno/static/media/Untitled design (18).9d5362a25fa9fbce3b3c.png",
+    "static/media/6.png": "/new-bueno/static/media/6.c9f1803760aaf969aefb.png",
+    "static/media/3.png": "/new-bueno/static/media/3.f90070410e851fdb965e.png",
+    "static/media/171.png": "/new-bueno/static/media/171.a62a00673d1b04b7f815.png",
+    "static/media/MAIN LOGO LIGHT BROWN@4x.png": "/new-bueno/static/media/MAIN LOGO LIGHT BROWN@4x.7e8c719762172d8a2150.png",
+    "static/media/MAIN LOGO BLACK@4x.png": "/new-bueno/static/media/MAIN LOGO BLACK@4x.58298328a8161525490e.png",
+    "index.html": "/new-bueno/index.html",
+    "main.7e1a3e3e.css.map": "/new-bueno/static/css/main.7e1a3e3e.css.map",
+    "main.c182dfe8.js.map": "/new-bueno/static/js/main.c182dfe8.js.map",
+    "453.fc3d2486.chunk.js.map": "/new-bueno/static/js/453.fc3d2486.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e1a3e3e.css",
+    "static/js/main.c182dfe8.js"
+  ]
+}
