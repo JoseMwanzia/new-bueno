@@ -1,0 +1,27 @@
+body {
+  background-color: #000000;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+
+   font-family:  Minion Pro
+}
+
+
+
+/* @media (max-width: 767px) {
+  CSS rules specific to smaller screens
+  For example:
+  body {
+    font-size: 14px;
+  }
+} */
+
+/* Styles for screens larger than or equal to 768 pixels */
+/* @media (min-width: 768px) {
+  CSS rules specific to larger screens
+  For example:
+  body {
+    font-size: 16px;
+  }
+} */
